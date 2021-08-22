@@ -2,3 +2,6 @@ test*
 *.csv
 __pycache__
 .ipynb_checkpoints
+income_test\*.csv
+config.ini
+data/*

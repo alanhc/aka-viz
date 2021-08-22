@@ -1,3 +1,12 @@
+aka-viz
+==============
+## File Structure
+```
+
+```
+
+
+
 python=3.8
 https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc?utm_source=chrome-ntp-icon
 

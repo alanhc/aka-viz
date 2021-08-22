@@ -12,7 +12,7 @@ st.button("Crawl data", on_click=get_data)
 
 
 st.title('akaSwap 收益畫圖')
-df = pd.read_csv("data.csv", index_col=0)
+df = pd.read_csv("Income_tz1WCYsbPyHTBcnj4saWG6SRFHECCj2TTzC6.csv", index_col=0)
 #st.write("Here's our first attempt at using data to create a table:")
 #st.write(df)
 
